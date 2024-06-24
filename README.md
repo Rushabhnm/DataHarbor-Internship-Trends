@@ -1,4 +1,4 @@
-# DataHarbor-Internship-Trends
+# DataHarbor Internship Trends
 
 ## Note 
 This is a project to learn scrapping and transforming data using cloud technologies that helped us getting familiar with different cloud technologies. This project is in a very early stage, it's best if you use this project only for the reference.
